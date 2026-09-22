@@ -3,4 +3,5 @@
 int main()
 {
  std::cout << "Hello, top-it!\n";
+ std::cout << "Hello, world!\n";
 }
