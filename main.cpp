@@ -2,7 +2,5 @@
 
 int main()
 {
- std::cout << "Hello, world!\n";
- std::cout << "ЧТО ТО НОВОЕ!!!\n";
- std::cout << "Say my name\n";
+ std::cout << "теперь тут только это\n";
 }
